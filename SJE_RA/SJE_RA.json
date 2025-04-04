@@ -1,0 +1,436 @@
+{
+    "models": [
+        {
+            "name": "LRAterritory_1.stl",
+            "path": "SJE_RA/LRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#4e73ce",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_10.stl",
+            "path": "SJE_RA/LRAterritory_10.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_10.stl",
+            "opacity": 0.4,
+            "color": "#ea10fd",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_11.stl",
+            "path": "SJE_RA/LRAterritory_11.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_11.stl",
+            "opacity": 0.4,
+            "color": "#5f6c19",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_2.stl",
+            "path": "SJE_RA/LRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#26a054",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_3.stl",
+            "path": "SJE_RA/LRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#8b8756",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_4.stl",
+            "path": "SJE_RA/LRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#24a090",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_5.stl",
+            "path": "SJE_RA/LRAterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#8aec62",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_6.stl",
+            "path": "SJE_RA/LRAterritory_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_6.stl",
+            "opacity": 0.4,
+            "color": "#1122c8",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_7.stl",
+            "path": "SJE_RA/LRAterritory_7.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_7.stl",
+            "opacity": 0.4,
+            "color": "#8a69fb",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_8.stl",
+            "path": "SJE_RA/LRAterritory_8.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_8.stl",
+            "opacity": 0.4,
+            "color": "#f83c1d",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_9.stl",
+            "path": "SJE_RA/LRAterritory_9.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/LRAterritory_9.stl",
+            "opacity": 0.4,
+            "color": "#2da189",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_1.stl",
+            "path": "SJE_RA/RRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#4e73ce",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_10.stl",
+            "path": "SJE_RA/RRAterritory_10.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_10.stl",
+            "opacity": 0.4,
+            "color": "#ea10fd",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_11.stl",
+            "path": "SJE_RA/RRAterritory_11.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_11.stl",
+            "opacity": 0.4,
+            "color": "#5f6c19",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_12.stl",
+            "path": "SJE_RA/RRAterritory_12.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_12.stl",
+            "opacity": 0.4,
+            "color": "#e69257",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_2.stl",
+            "path": "SJE_RA/RRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#26a054",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_3.stl",
+            "path": "SJE_RA/RRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#8b8756",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_4.stl",
+            "path": "SJE_RA/RRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#24a090",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_5.stl",
+            "path": "SJE_RA/RRAterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#8aec62",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_6.stl",
+            "path": "SJE_RA/RRAterritory_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_6.stl",
+            "opacity": 0.4,
+            "color": "#1122c8",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_7.stl",
+            "path": "SJE_RA/RRAterritory_7.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_7.stl",
+            "opacity": 0.4,
+            "color": "#8a69fb",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_8.stl",
+            "path": "SJE_RA/RRAterritory_8.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_8.stl",
+            "opacity": 0.4,
+            "color": "#f83c1d",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_9.stl",
+            "path": "SJE_RA/RRAterritory_9.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/RRAterritory_9.stl",
+            "opacity": 0.4,
+            "color": "#2da189",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "artery.stl",
+            "path": "SJE_RA/artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_RA/artery.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}
