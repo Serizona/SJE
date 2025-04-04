@@ -59,7 +59,7 @@
             "path": "SJE_NW/urinary_system.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/urinary_system.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#e6dc46",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
