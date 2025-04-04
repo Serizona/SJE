@@ -1,0 +1,14 @@
+File STL		Volume (cm³)
+========================================
+LUterritory_1.stl		29.38441 cm³
+LUterritory_2.stl		31.34781 cm³
+LUterritory_3.stl		46.82792 cm³
+LUterritory_4.stl		40.47907 cm³
+RUterritory_1.stl		5.58650 cm³
+RUterritory_2.stl		16.45059 cm³
+RUterritory_3.stl		18.91401 cm³
+RUterritory_4.stl		28.51620 cm³
+RUterritory_5.stl		39.87105 cm³
+RUterritory_6.stl		24.20152 cm³
+RUterritory_7.stl		19.13366 cm³
+urinary_system.stl		19.59393 cm³
