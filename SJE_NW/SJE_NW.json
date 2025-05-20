@@ -91,9 +91,9 @@
             }
         },
         {
-            "name": "urinary sistem.stl",
-            "path": "SJE_NW/urinary sistem.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/urinary sistem.stl",
+            "name": "urinary system.stl",
+            "path": "SJE_NW/urinary system.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/urinary system.stl",
             "opacity": 1.0,
             "color": "#FFFFFF",
             "material": {
