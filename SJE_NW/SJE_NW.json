@@ -37,6 +37,42 @@
             }
         },
         {
+            "name": "renal_artery.stl",
+            "path": "SJE_NW/renal_artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/renal_artery.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "renal_veins.stl",
+            "path": "SJE_NW/renal_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/renal_veins.stl",
+            "opacity": 1.0,
+            "color": "#8da7f4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
             "name": "right_kidney.stl",
             "path": "SJE_NW/right_kidney.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/right_kidney.stl",
@@ -55,11 +91,11 @@
             }
         },
         {
-            "name": "urinary_system.stl",
-            "path": "SJE_NW/urinary_system.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/urinary_system.stl",
+            "name": "urinary sistem.stl",
+            "path": "SJE_NW/urinary sistem.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/urinary sistem.stl",
             "opacity": 1.0,
-            "color": "#e6dc46",
+            "color": "#FFFFFF",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +113,7 @@
             "path": "SJE_NW/veins.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/veins.stl",
             "opacity": 1.0,
-            "color": "#8da7f4",
+            "color": "#FFFFFF",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
