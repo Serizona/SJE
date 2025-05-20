@@ -1,4 +1,4 @@
 File STL		Volume (cm³)
 ========================================
 left_kidney.stl		146.08200 cm³
-right_kidney.stl		296.99993 cm³
+right_kidney.stl		151.75158 cm³
