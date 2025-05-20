@@ -95,7 +95,7 @@
             "path": "SJE_NW/urinary system.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/urinary system.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#d6e682",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "SJE_NW/veins.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/SJE/master/SJE_NW/veins.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#8da7f4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
